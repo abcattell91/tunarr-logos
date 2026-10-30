@@ -20,6 +20,14 @@ All logos are PNGs with transparent backgrounds, trimmed to the artwork.
 | 112 | Wild Planet | <img src="logos/wild-planet.png" height="80"> |
 | 113 | Hero Hour | <img src="logos/hero-hour.png" height="80"> |
 | 114 | Hyperspace | <img src="logos/hyperspace.png" height="80"> |
+| 115 | Box Set | <img src="logos/box-set.png" height="80"> |
+| 116 | Sirens | <img src="logos/sirens.png" height="80"> |
+| 117 | Sofa Club | <img src="logos/sofa-club.png" height="80"> |
+| 118 | Realm | <img src="logos/realm.png" height="80"> |
+| 119 | Homeroom | <img src="logos/homeroom.png" height="80"> |
+| 120 | Sunday Night | <img src="logos/sunday-night.png" height="80"> |
+| 121 | Case Files | <img src="logos/case-files.png" height="80"> |
+| 122 | Frontier | <img src="logos/frontier.png" height="80"> |
 | 201 | Late Rental | <img src="logos/late-rental.png" height="80"> |
 | 202 | Y2K Cinema | <img src="logos/y2k-cinema.png" height="80"> |
 | 203 | Fright Night | <img src="logos/fright-night.png" height="80"> |
@@ -44,3 +52,8 @@ All logos are PNGs with transparent backgrounds, trimmed to the artwork.
 | 401 | Neon Tokyo | <img src="logos/neon-tokyo.png" height="80"> |
 | 402 | Midnight Anime | <img src="logos/midnight-anime.png" height="80"> |
 | 501 | Tinsel TV | <img src="logos/tinsel-tv.png" height="80"> |
+| 502 | Spooky Season | <img src="logos/spooky-season.png" height="80"> |
+| 503 | Countdown | <img src="logos/countdown.png" height="80"> |
+| 504 | Be Mine | <img src="logos/be-mine.png" height="80"> |
+| 505 | Leftovers | <img src="logos/leftovers.png" height="80"> |
+| 506 | Summer Hols | <img src="logos/summer-hols.png" height="80"> |
